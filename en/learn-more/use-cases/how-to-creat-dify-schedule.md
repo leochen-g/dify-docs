@@ -44,13 +44,13 @@ Let's get your automated workflows up and running in just a few steps!
    | EMAIL_PASS | SMTP password | Email notifications |
    | EMAIL_TO | Recipient email(s) (use `, ` for multiple) | Email notifications |
    | PUSHPLUS_TOKEN | [Pushplus](http://www.pushplus.plus/) token | WeChat notifications |
-   | SERVERPUSHKEY | [Server酱](https://sct.ftqq.com/) key | WeChat notifications |
+   | SERVERPUSHKEY | [Server push](https://sct.ftqq.com/) key | WeChat notifications |
    | DINGDING_WEBHOOK | DingTalk robot webhook | DingTalk notifications |
    | WEIXIN_WEBHOOK | WeCom robot webhook | WeCom notifications |
    | FEISHU_WEBHOOK | Feishu robot webhook | Feishu notifications |
-   | AIBOTK_KEY | [AI Secretary](https://wechat.aibotk.com?r=dBL0Bn&f=difySchedule) apikey | WeChat notifications |
-   | AIBOTK_ROOM_RECIVER | Group chat name for AI Secretary | WeChat group notifications |
-   | AIBOTK_CONTACT_RECIVER | Contact name for AI Secretary | WeChat private notifications |
+   | AIBOTK_KEY | [Wechat Assistant](https://wechat.aibotk.com?r=dBL0Bn&f=difySchedule) apikey | WeChat notifications |
+   | AIBOTK_ROOM_RECIVER | Group chat name for Wechat Assistant | WeChat group notifications |
+   | AIBOTK_CONTACT_RECIVER | Contact name for Wechat Assistant | WeChat private notifications |
 
 3. ▶️ Enable the workflow:
    Go to Actions tab and enable the workflows
